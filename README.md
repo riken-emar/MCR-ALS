@@ -1,1 +1,1 @@
-# MCR-ALS
+# pyMCR-MCR-ALS
